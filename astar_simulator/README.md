@@ -18,6 +18,6 @@ $ ./rrt-test
 ```
 ## Interface
 
-![ASTAR Simulator](imgs/rrt-sim.png)
+![ASTAR Simulator](https://drive.google.com/open?id=17Bbdqr6LSzwbqzqW-0DnrZlv4kuwTm1k)
 
 *Note: Draw obstacles by clicking and dragging on the field.*
