@@ -14,7 +14,7 @@ $ make
 ```
 Run the exectuable as
 ```
-$ ./rrt-test
+$ ./astar-test
 ```
 ## Interface
 
