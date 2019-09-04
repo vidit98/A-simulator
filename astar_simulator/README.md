@@ -1,4 +1,4 @@
-# RRT Simulator
+# A* Simulator
 
 ## Dependencies
 * Qt5
@@ -6,8 +6,8 @@
 
 ## Compiling
 ```bash
-$ git clone https://github.com/sourishg/rrt-umass
-$ cd rrt-umass/
+$ git clone https://github.com/vidit98/Astar-simulator
+$ cd astar_simulator/
 $ mkdir build && cd build
 $ cmake ..
 $ make
@@ -18,6 +18,6 @@ $ ./rrt-test
 ```
 ## Interface
 
-![RRT Simulator](imgs/rrt-sim.png)
+![ASTAR Simulator](imgs/rrt-sim.png)
 
 *Note: Draw obstacles by clicking and dragging on the field.*
